@@ -22,7 +22,7 @@ from twitter_follow_bot import auto_follow
 auto_follow("phrase", count=100)
 '''
 
-'''
+
 #2 In this code, change "jwmares" to the twitter handle whose followers you want to follow, 
 and set the count to how many people should be followed. Default is 100.
 
